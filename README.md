@@ -33,7 +33,6 @@ This repository is organized to mirror the structure of the tutorial. You will l
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/kajbr88/TypeScript-Tutorial-by-Shaun-Pelling-from-Net-Ninja.git
-    cd <repository-name>
     ```
 2.  **Install Typescript :**
     * Typescript requires NodeJS installed in the system to install and copile Typescript,So go ahead and install NodeJS first.
@@ -44,10 +43,7 @@ This repository is organized to mirror the structure of the tutorial. You will l
     ```
 3.  **Navigate to the relevant section:**
     Browse the folders to find the code examples related to specific topics covered in the tutorial.
-    e.g.
-     ```bash
-    cd <repository-name>
-    ```
+    
 5.  **Run the code:**
     Follow the instructions within the specific folder or the tutorial videos to execute the TypeScript code (usually involves compiling to JavaScript and then running the JavaScript file). For example:
     ```bash
